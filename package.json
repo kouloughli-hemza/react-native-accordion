@@ -1,6 +1,6 @@
 {
   "name": "nixa-react-native-accordion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Accordion: Reanimated Collapsible Sections for React Native.",
   "type": "module",
   "main": "lib/commonjs/index",
