@@ -1,6 +1,6 @@
 {
-  "name": "@mustapha-ghlissi/react-native-accordion",
-  "version": "1.1.0",
+  "name": "nixa-react-native-accordion",
+  "version": "1.0.0",
   "description": "React Native Accordion: Reanimated Collapsible Sections for React Native.",
   "type": "module",
   "main": "lib/commonjs/index",
@@ -79,7 +79,7 @@
     "@types/react-native-vector-icons": ">=6.4.18",
     "react": "*",
     "react-native": "*",
-    "react-native-reanimated": ">=3.13.0",
+    "react-native-reanimated": ">=3.6.0",
     "react-native-vector-icons": ">=10.1.0"
   },
   "react-native-builder-bob": {
