@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mustapha-ghlissi/react-native-accordion.git"
+    "url": "git@github.com:kouloughli-hemza/react-native-accordion.git"
   },
   "keywords": [
     "react-native",
@@ -50,9 +50,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mustapha-ghlissi/react-native-accordion/issues"
+    "url": "git@github.com:kouloughli-hemza/react-native-accordion.git"
   },
-  "homepage": "https://github.com/mustapha-ghlissi/react-native-accordion#readme",
+  "homepage": "git@github.com:kouloughli-hemza/react-native-accordion.git",
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",

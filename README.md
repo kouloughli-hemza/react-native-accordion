@@ -1,6 +1,6 @@
 
 # React Native Accordion
-`@mustapha-ghlissi/react-native-accordion`: a Collapsible Sections for React Native.
+`nixa-react-native-accordion`: a Collapsible Sections for React Native. fork from (https://github.com/mustapha-ghlissi/react-native-accordion)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![npm](https://img.shields.io/npm/v/@mustapha-ghlissi/react-native-accordion.svg)](https://www.npmjs.com/package/@mustapha-ghlissi/react-native-accordion)
@@ -51,7 +51,7 @@ yarn add react-native-reanimated react-native-vector-icons
 
 ## Usage
 ``` tsx
-import {Accordion, AccordionItem} from '@mustapha-ghlissi/react-native-accordion';
+import {Accordion, AccordionItem} from 'nixa-react-native-accordion';
 
 <Accordion>
     <AccordionItem
@@ -106,7 +106,7 @@ import {Accordion, AccordionItem} from '@mustapha-ghlissi/react-native-accordion
 
 ## Advanced Usage
 ``` tsx
-import {Accordion, AccordionItem} from '@mustapha-ghlissi/react-native-accordion';
+import {Accordion, AccordionItem} from 'nixa-react-native-accordion';
 
 const styles = StyleSheet.create({
     titleStyle: {
@@ -141,18 +141,3 @@ const styles = StyleSheet.create({
     </AccordionItem>
 </Accordion>
 ``` 
-
-## Donate
-<p>Please contribute or donate so we can spend more time on this library.</p>
-
-[Donate with Wise by clicking this link](https://wise.com/pay/me/mustaphag6) or by scanning the following QRCode
-<br />
-
-![Wise](./donate/wise.png)
-
-## Authors
-- [@mustapha-ghlissi](https://www.linkedin.com/in/mustapha-ghlissi)
-
-## Other libraries
-- [React Native OTP](https://github.com/mustapha-ghlissi/react-native-otp): One time password input for React Native.
-- [React Native Select Picker](https://github.com/mustapha-ghlissi/react-native-select-picker): Reanimated Dropdown Select for React Native.
