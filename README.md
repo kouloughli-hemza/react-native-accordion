@@ -31,11 +31,11 @@ You can check out this [<u><b>Example</b></u>](./example/).
 Use `npm` or `yarn` to install the package.
 
 ``` sh
-npm i @mustapha-ghlissi/react-native-accordion
+npm i nixa-react-native-accordion
 ```
 
 ``` sh
-yarn add @mustapha-ghlissi/react-native-accordion
+yarn add nixa-react-native-accordion
 ```
 
 ##### Installing dependencies

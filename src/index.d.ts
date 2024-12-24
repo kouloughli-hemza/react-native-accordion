@@ -1,4 +1,4 @@
-declare module "@mustapha-ghlissi/react-native-accordion" {
+declare module "nixa-react-native-accordion" {
     import {PropsWithChildren, ReactNode} from "react";
     import {PressableAndroidRippleConfig, TextStyle, ViewStyle} from "react-native";
 
