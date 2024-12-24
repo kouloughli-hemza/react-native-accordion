@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@mustapha-ghlissi/react-native-accordion": ["./src/index"]
+      "nixa-react-native-accordion": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
